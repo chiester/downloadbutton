@@ -4,3 +4,4 @@ node_modules
 /pages
 /build
 es5
+npm-debug.log

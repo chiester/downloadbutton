@@ -1,6 +1,6 @@
 var React = require('react');
 var addons = require('react-addons');
-var cx = React.addons.classSet,
+var cx = addons.classSet,
     PT = React.PropTypes,
     saveAs = require('./save-as')
 
